@@ -1,4 +1,4 @@
-#💻 Web Dev Portfolio
+💻 Web Dev Portfolio
 
 Welcome to my Web Development Portfolio, a curated collection of my front-end development work.
 This repository showcases responsive websites, UI components, landing pages, and design-to-code projects built using HTML, CSS, JavaScript, and modern UI/UX practices.
