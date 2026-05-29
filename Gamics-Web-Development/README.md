@@ -5,7 +5,7 @@ This repository showcases responsive websites, UI components, landing pages, and
 
 ---
 
-## 📸 Preview
+📸 Preview
 Below is the design included in this project:
 
-[Gamics Screen] <img width="1366" height="768" alt="Gamics-preview" src="https://github.com/user-attachments/assets/d22aec2a-c69b-49ca-87dc-993fdda60534" />
+ <img width="1366" height="768" alt="Gamics-preview" src="https://github.com/user-attachments/assets/d22aec2a-c69b-49ca-87dc-993fdda60534" />
