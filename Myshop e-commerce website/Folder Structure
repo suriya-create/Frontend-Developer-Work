@@ -1,0 +1,12 @@
+frontend/
+│
+├── index.html          # Home page with product cards
+├── cart.html           # Shopping cart page
+├── checkout.html       # Checkout + address form
+├── payment.html        # Fake payment page
+├── orders.html         # Order history
+├── admin.html          # Admin dashboard
+├── login.html          # Login page
+├── style.css           # All styles
+├── script.js           # Main JS for products & search
+└── cart.js             # Cart page JS (add/remove items, quantity)

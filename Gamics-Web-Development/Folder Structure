@@ -1,0 +1,28 @@
+📁 Web-dev-portfolio/
+│
+├── 📝 README.md
+│
+├── 🗂️ assets/
+│   ├── 🖼️ images/
+│   │   └── 📸 Gamics-preview.png
+│   └── 🎯 icons/
+│
+├── 🚀 projects/
+│   ├── 🎮 project-gamics/
+│   │   ├── 📄 index.html
+│   │   ├── 🎨 style.css
+│   │   ├── ⚡ script.js
+│   │   └── 🗂️ assets/
+│   │       └── 🖼️ images/
+│
+│   ├── 🔐 project-02-login-ui/
+│   │   ├── 📸 Gamics-preview.png
+│   │   └── 📝 README.md
+│
+│   ├── 💻 project-03-portfolio-template/
+│   │   └── 📦 (files)
+│
+│   └── ➕ more-projects/
+│
+└── 📘 documentation/
+    └── 📝 design-notes.md
