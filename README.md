@@ -1,8 +1,53 @@
-# web-dev-portfolio
-A collection of my web development projects built using HTML, CSS, JavaScript, and modern UI/UX practices. Includes responsive websites, landing pages, and front-end components
+# 🌐 Suriya – Portfolio Website
+
+This is my personal portfolio website showcasing my skills, projects, and creative work.  
+I am a **Web Developer, UI/UX Designer, and Graphic Designer** passionate about building modern digital experiences.
 
 ---
 
-## 📸 Gamics-web-development Preview
-<img width="1366" height="768" alt="Gamics-preview" src="https://github.com/user-attachments/assets/3f36543a-5dd9-42ec-ac6a-2b66ecc13490" />
+## 🚀 Features
+- Responsive and modern design  
+- Clean UI/UX layout  
+- Project showcase section  
+- About me & skillset  
+- Contact details  
+- Designed for interviews & job applications
 
+---
+
+## 🛠️ Technologies Used
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Figma / UI Design**
+- **Canva / Graphic Work**
+
+---
+
+## 📸 Preview  
+You can view the live website here:  
+👉 **(https://suriya-portfolio-dev.netlify.app)**
+
+
+---
+
+## 📂 Folder Structure
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+├── images/
+└── icons/
+
+
+---
+
+## 📞 Contact
+**Suriya**  
+🌐 Portfolio: https://your-username.github.io  
+📧 Email: your-email  
+📷 Instagram: your-instagram  
+
+---
+
+### ⭐ If you like this project, give it a star on GitHub!
